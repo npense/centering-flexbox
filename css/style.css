@@ -11,16 +11,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../img/wow.png') bottom center no-repeat;
+    background: url('../img/flower-photo.png') bottom center no-repeat;
     background-size: cover;
     font-size: 1em;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 .centered {
   padding: 0 3.125em;
-  font-family:'Montserrat', sans-serif;
-  background: #f16059;
+  font-family: 'Lobster', cursive;
+  background: #f16142;
 }
 
 h1 {
